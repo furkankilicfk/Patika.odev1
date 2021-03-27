@@ -1,0 +1,32 @@
+img {
+    border-radius: 50%;
+    width: 500px;
+    height: 200px;
+  }
+
+  .text1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    font-family: cursive;
+    letter-spacing: 7px;
+  }  
+
+  .clock {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: cursive;
+    letter-spacing: 7px;
+  }
+
+  .text2 {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: cursive;
+  }
+  
