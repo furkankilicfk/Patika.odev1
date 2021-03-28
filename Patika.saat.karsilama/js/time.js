@@ -1,5 +1,5 @@
 function yourName() {
-    let name = prompt("Adınız nedir", "lütfen o sikik adınızı giriniz")
+    let name = prompt("Adınız nedir", "lütfen sadece adınızı giriniz")
     document.getElementById("perName").innerText= name.toUpperCase()
     
 }
